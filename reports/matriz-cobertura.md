@@ -6,7 +6,7 @@
 | Dashboard | `test-cases/` com prefixo DASH | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Usuário sem visão clara do próximo passo | Cobertura planejada orientada por risco. |
 | Perfil da Empresa | `test-cases/` com prefixo EMP | `bdd/funcionalidades/` | Executado no ciclo 02 | Inconsistência de idioma em validação obrigatória | 14 casos executados: 13 aprovados e 1 reprovado. Bug aberto: `BUG-007`. |
 | Clientes | `test-cases/` com prefixo CLI | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Dados incompletos e falhas de gestão de base | Cobertura planejada orientada por risco. |
-| Plano | `test-cases/` com prefixo PLAN | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Plano | `test-cases/` com prefixo PLAN | `bdd/funcionalidades/` | Preparado no ciclo 03 / Pendente de execução manual | Comportamento real de UI ainda não validado | BDD e casos de teste aprofundados com base em inspeção estática do projeto `firmus-app`; execução real em navegador ainda pendente. |
 | Prontidão do MVP | `test-cases/` com prefixo MVP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
 | Serviços | `test-cases/` com prefixo SRV | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
 | Orçamentos | `test-cases/` com prefixo QUO | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Propostas inválidas e impacto financeiro | Cobertura planejada orientada por risco. |
