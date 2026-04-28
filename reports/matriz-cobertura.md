@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 | Autenticação | `test-cases/` com prefixo AUTH | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Acesso indevido ou bloqueio de usuário legítimo | Cobertura planejada orientada por risco. |
 | Dashboard | `test-cases/` com prefixo DASH | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Usuário sem visão clara do próximo passo | Cobertura planejada orientada por risco. |
-| Perfil da Empresa | `test-cases/` com prefixo EMP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Perfil da Empresa | `test-cases/` com prefixo EMP | `bdd/funcionalidades/` | Bloqueado no ciclo 02 | Aplicação local indisponível para validação funcional real | Casos `TC-EMP-001` a `TC-EMP-014` documentados. Execução bloqueada porque `http://localhost:3000/` não estava acessível. |
 | Clientes | `test-cases/` com prefixo CLI | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Dados incompletos e falhas de gestão de base | Cobertura planejada orientada por risco. |
 | Plano | `test-cases/` com prefixo PLAN | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
 | Prontidão do MVP | `test-cases/` com prefixo MVP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
