@@ -1,0 +1,27 @@
+# Matriz de Cobertura — Firmus QA Manual
+
+| Módulo | Casos de teste | Cenários BDD | Status de cobertura | Risco principal | Observações |
+|---|---|---|---|---|---|
+| Autenticação | `test-cases/` com prefixo AUTH | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Acesso indevido ou bloqueio de usuário legítimo | Cobertura planejada orientada por risco. |
+| Dashboard | `test-cases/` com prefixo DASH | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Usuário sem visão clara do próximo passo | Cobertura planejada orientada por risco. |
+| Perfil da Empresa | `test-cases/` com prefixo EMP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Clientes | `test-cases/` com prefixo CLI | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Dados incompletos e falhas de gestão de base | Cobertura planejada orientada por risco. |
+| Plano | `test-cases/` com prefixo PLAN | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Prontidão do MVP | `test-cases/` com prefixo MVP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Serviços | `test-cases/` com prefixo SRV | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Orçamentos | `test-cases/` com prefixo QUO | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Propostas inválidas e impacto financeiro | Cobertura planejada orientada por risco. |
+| Cobranças | `test-cases/` com prefixo COB | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| DAS | `test-cases/` com prefixo DAS | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| NFSe | `test-cases/` com prefixo NFSE | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Informação fiscal duplicada ou confusa | Cobertura planejada orientada por risco. |
+| Lembretes | `test-cases/` com prefixo LEM | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Logs de atividade | `test-cases/` com prefixo LOG | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Radar de reativação | `test-cases/` com prefixo RADAR | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Modelos | `test-cases/` com prefixo MOD | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Entrada assistida | `test-cases/` com prefixo ASSIST | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Sugestões | `test-cases/` com prefixo SUG | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Regras de automação | `test-cases/` com prefixo AUTO | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Resumo semanal | `test-cases/` com prefixo WEEK | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Visão Financeira | `test-cases/` com prefixo FIN | `bdd/funcionalidades/` | Executado no ciclo 01 e ampliado no planejamento | Decisão baseada em valores incorretos | Cobertura planejada orientada por risco. |
+| Navegação geral | `test-cases/` com prefixo NAV | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Responsividade geral | `test-cases/` com prefixo RESP | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
+| Segurança básica manual | `test-cases/` com prefixo SEC | `bdd/funcionalidades/` | Planejado / Não Executado | Fluxo visível sem validação manual real no ciclo 01 | Cobertura planejada orientada por risco. |
