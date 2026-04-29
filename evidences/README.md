@@ -40,6 +40,27 @@ evidences/
 | `screenshots/TC-EMP-013-perfil-empresa-mobile-like.png` | TC-EMP-013 |
 | `screenshots/BUG-007-perfil-empresa-validacao-obrigatoria-ingles.png` | BUG-007, TC-EMP-007 |
 
+## Ciclo 19 — Execução Manual Consolidada 02 — Lote 01
+
+| Campo | Informação |
+|---|---|
+| Tipo | Smoke manual real |
+| Modo | Execução manual pelo usuário no navegador |
+| Pasta | `evidences/screenshots/cycle-19/` |
+| Escopo | Plano, Prontidão do MVP, Serviços e Cobranças |
+| Status | Concluído |
+| Resultado | 4 casos executados, 4 aprovados, 0 reprovados, 0 bloqueados |
+| Automação | Não utilizada |
+| Cypress | Não utilizado |
+| Browser headless | Não utilizado |
+
+Evidências coletadas:
+
+- `TC-SMOKE-019-001-plano.png`
+- `TC-SMOKE-019-002-prontidao-mvp.png`
+- `TC-SMOKE-019-003-servicos.png`
+- `TC-SMOKE-019-004-cobrancas.png`
+
 ## Observação
 
 Os nomes existentes foram preservados para não quebrar referências históricas. Novas evidências podem usar nomes em PT-BR desde que mantenham o ID no início.
