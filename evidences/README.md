@@ -61,6 +61,28 @@ Evidências coletadas:
 - `TC-SMOKE-019-003-servicos.png`
 - `TC-SMOKE-019-004-cobrancas.png`
 
+## Ciclo 20 — Execução Manual Consolidada 02 — Lote 02
+
+| Campo | Informação |
+|---|---|
+| Tipo | Smoke manual real |
+| Modo | Execução manual pelo usuário no navegador |
+| Pasta | `evidences/screenshots/cycle-20/` |
+| Escopo | DAS, Lembretes, Logs de atividade e Radar de reativação |
+| Status | Concluído com ressalvas |
+| Resultado | 4 casos executados, 3 aprovados, 1 aprovado com ressalvas, 0 reprovados, 0 bloqueados nos casos principais |
+| Validações complementares bloqueadas | 2, ambas relacionadas ao módulo DAS |
+| Automação | Não utilizada |
+| Cypress | Não utilizado |
+| Browser headless | Não utilizado |
+
+Evidências coletadas:
+
+- `TC-SMOKE-020-001-das.png`
+- `TC-SMOKE-020-002-lembretes.png`
+- `TC-SMOKE-020-003-logs-atividade.png`
+- `TC-SMOKE-020-004-radar-reativacao.png`
+
 ## Observação
 
 Os nomes existentes foram preservados para não quebrar referências históricas. Novas evidências podem usar nomes em PT-BR desde que mantenham o ID no início.
